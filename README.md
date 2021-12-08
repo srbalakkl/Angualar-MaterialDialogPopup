@@ -1,3 +1,14 @@
+#Step1 
+Import MaterialDialogModule on appmodule
+####NOTE:Don't forget to restart the angular CLI Server after the execution of `ng add @angular/Material` command. 
+
+#Step2
+Import MaterialDialogModule on appmodule & and the popUp component DialogDataExampleDialogComponent.
+
+#Step3
+Check the components templates
+
+# ********************************************#
 # AngularMaterialDialog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
